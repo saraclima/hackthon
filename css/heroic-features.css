@@ -18,6 +18,13 @@ body {
   height: 100%;
 }
 
+h1 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+
 @media (max-width: 768px) {
   body {
     padding-top: 56px;
@@ -25,5 +32,6 @@ body {
   .card {
     height: 150%;
   }
+
 
 }
