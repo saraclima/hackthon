@@ -30,11 +30,13 @@
 
         <div class="col-lg-12 col-md-6 mb-4">
             <div class="jumbotron my-4 img_container">
+
                 <img class="card-img-top card" src="images/voler.png" />
-                <p></p>
+               <div class="text_sur_img_air"><p>"Wooww! 367 messages!"</p></div>
                 <div class="img_caption">
                     <a href="air_acc.php" class="btn btn-primary btn-lg bout-lg">Continuer</a>
                 </div>
+
             </div>
         </div>
 
