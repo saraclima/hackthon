@@ -33,7 +33,7 @@
                 <img class="card-img-top card" src="images/voler.png" />
                 <p></p>
                 <div class="img_caption">
-                    <a href="#" class="btn btn-primary btn-lg bout-lg">Voler</a>
+                    <a href="air_acc.php" class="btn btn-primary btn-lg bout-lg">Continuer</a>
                 </div>
             </div>
         </div>
@@ -45,7 +45,7 @@
             <div class="jumbotron my-4 img_container">
                 <img class="card-img-top card" src="images/Scene2.png" />
                     <div class="img_caption">
-                        <a href="#" class="btn btn-primary btn-lg">Escalader</a>
+                        <a href="air_con.php" class="btn btn-primary btn-lg">Continuer</a>
                     </div>
 
             </div>
