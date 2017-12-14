@@ -31,11 +31,11 @@
         <div class="col-lg-12 col-md-6 mb-4">
             <div class="jumbotron my-4 img_container">
 
-                    <img class="card-img-top card" src="images/voler.png" />
-                <div class="text_sur_img_air"><p>"Wooww! 367 messages!"</p></div>
-                    <div class="img_caption">
-                    <a href="#" class="btn btn-primary btn-lg bout-lg">Voler</a>
-                    </div>
+                <img class="card-img-top card" src="images/voler.png" />
+               <div class="text_sur_img_air"><p>"Wooww! 367 messages!"</p></div>
+                <div class="img_caption">
+                    <a href="air_acc.php" class="btn btn-primary btn-lg bout-lg">Continuer</a>
+                </div>
 
             </div>
         </div>
@@ -47,7 +47,7 @@
             <div class="jumbotron my-4 img_container">
                 <img class="card-img-top card" src="images/Scene2.png" />
                     <div class="img_caption">
-                        <a href="#" class="btn btn-primary btn-lg">Escalader</a>
+                        <a href="air_con.php" class="btn btn-primary btn-lg">Continuer</a>
                     </div>
 
             </div>
