@@ -30,17 +30,15 @@ body {
   right: 45%;
 }
 
+h1 {
+  font-family: 'Permanent Marker', cursive;
+}
 
-
-
-
-
-
+p {
+  font-family: 'Open Sans', sans-serif;
 
 @media (max-width: 768px) {
   body {
     padding-top: 56px;
   }
-
-
 }
