@@ -16,6 +16,18 @@ body {
 
 .card {
   height: 100%;
+
+}
+
+.img_container{
+  position: relative;
+  text-align: center;
+}
+
+.img_caption {
+  position: absolute;
+  bottom: 20%;
+  right: 45%;
 }
 
 h1 {
@@ -29,9 +41,4 @@ p {
   body {
     padding-top: 56px;
   }
-  .card {
-    height: 150%;
-  }
-
-
 }
