@@ -37,6 +37,17 @@ h1 {
 p {
   font-family: 'Open Sans', sans-serif;
 
+}
+
+
+
+
+
+
+
+
+
+
 @media (max-width: 768px) {
   body {
     padding-top: 56px;
