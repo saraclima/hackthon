@@ -17,3 +17,11 @@ body {
 .card {
   height: 100%;
 }
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
