@@ -7,6 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+        @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+    </style>
 
     <title>Choisis ton Heros - R - Man</title>
 
@@ -29,27 +33,20 @@
     <div class="row text-center">
 
         <div class="col-lg-12 col-md-6 mb-4">
-            <div class="jumbotron my-4">
-                <img class="card-img-top card" src="http://via.placeholder.com/800x300" />
-                <p></p>
-                <a href="#" class="btn btn-primary btn-lg">Call to action!</a>
+            <div class="jumbotron my-4 img_container">
+
+                <img class="card-img-top card" src="images/air_con.png" />
+                <div class="text_sur_img_air2"><h1>T'as cru quoi?! Que t'allais rester invincible? <br /><br /> Et non..."</h1></div>
+                <div class="img_caption">
+                    <a href="conclusion.html" class="btn btn-primary btn-lg bout-lg">Continuer</a>
+                </div>
+
             </div>
         </div>
 
     </div>
 
-    <div class="row text-center">
 
-        <div class="col-lg-12 col-md-6 mb-4">
-            <div class="jumbotron my-4">
-                <img class="card-img-top card" src="http://via.placeholder.com/800x300" />
-                <p></p>
-
-                <a href="#" class="btn btn-primary btn-lg">Call to action!</a>
-            </div>
-        </div>
-
-    </div>
     <!-- /.row -->
 
 </div>
