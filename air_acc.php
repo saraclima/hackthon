@@ -29,23 +29,25 @@
     <div class="row text-center">
 
         <div class="col-lg-12 col-md-6 mb-4">
-            <div class="jumbotron my-4">
-                <img class="card-img-top card" src="http://via.placeholder.com/800x300" />
+            <div class="jumbotron my-4 img_container">
+                <img class="card-img-top card" src="images/voler.png" />
                 <p></p>
-                <a href="#" class="btn btn-primary btn-lg">Call to action!</a>
+                <div class="img_caption">
+                    <a href="#" class="btn btn-primary btn-lg">Voler!</a>
+                </div>
             </div>
         </div>
 
     </div>
 
     <div class="row text-center">
-
         <div class="col-lg-12 col-md-6 mb-4">
-            <div class="jumbotron my-4">
-                <img class="card-img-top card" src="http://via.placeholder.com/800x300" />
-                <p></p>
+            <div class="jumbotron my-4 img_container">
+                <img class="card-img-top card" src="images/Scene2.png" />
+                    <div class="img_caption">
+                        <a href="#" class="btn btn-primary btn-lg">Call to action!</a>
+                    </div>
 
-                <a href="#" class="btn btn-primary btn-lg">Call to action!</a>
             </div>
         </div>
 
