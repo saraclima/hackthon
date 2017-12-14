@@ -7,6 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+        @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+    </style>
 
     <title>Choisis ton Heros - R - Man</title>
 
@@ -31,29 +35,18 @@
         <div class="col-lg-12 col-md-6 mb-4">
             <div class="jumbotron my-4 img_container">
 
-                    <img class="card-img-top card" src="images/voler.png" />
-                <div class="text_sur_img_air"><p>"Wooww! 367 messages!"</p></div>
-                    <div class="img_caption">
-                    <a href="#" class="btn btn-primary btn-lg bout-lg">Voler</a>
-                    </div>
+                <img class="card-img-top card" src="images/superdead.png" />
+                <div class="text_sur_img_air2"><h1>Téléphoner en volant, t'es sérieux?! <br /><br /> Tu t'es fait cramer!"</h1></div>
+                <div class="img_caption">
+                    <a href="conclusion.html" class="btn btn-primary btn-lg bout-lg">Continuer</a>
+                </div>
 
             </div>
         </div>
 
     </div>
 
-    <div class="row text-center">
-        <div class="col-lg-12 col-md-6 mb-4">
-            <div class="jumbotron my-4 img_container">
-                <img class="card-img-top card" src="images/Scene2.png" />
-                    <div class="img_caption">
-                        <a href="#" class="btn btn-primary btn-lg">Escalader</a>
-                    </div>
 
-            </div>
-        </div>
-
-    </div>
     <!-- /.row -->
 
 </div>
