@@ -16,6 +16,7 @@ body {
 .img_container{
   position: relative;
   text-align: center;
+  height: 70vw;
 }
 
 .img_caption {
@@ -59,5 +60,11 @@ p {
 @media (max-width: 768px) {
   body {
     padding-top: 56px;
+  }
+  h1 {
+    font-size: 95%;
+  }
+  .display-3 {
+    font-size: 220%;
   }
 }
