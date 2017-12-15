@@ -38,7 +38,7 @@
                 <img class="card-img-top card" src="images/voler.png" />
                <div class="text_sur_img_air"><h1>"Wooww! 367 messages!"</h1></div>
                 <div class="img_caption">
-                    <a href="air_acc.php" class="btn btn-primary btn-lg bout-lg">Qu'est-ce que va lui arriver?</a>
+                    <a href="air_acc.php" class="btn btn-primary btn-lg bout-lg">Que va t-il lui arriver?</a>
                 </div>
 
             </div>
