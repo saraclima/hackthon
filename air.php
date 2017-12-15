@@ -50,7 +50,7 @@
         <div class="col-lg-12 col-md-6 mb-4">
             <div class="jumbotron my-4 img_container">
                 <img class="card-img-top card" src="images/Scene2.png" />
-                <div class="text_sur_img_air"><h1>"T'es cap ou pas"</h1></div>
+                <div class="text_sur_img_air"><h1>"Cap ou pas cap"</h1></div>
                     <div class="img_caption">
                         <a href="air_con.php" class="btn btn-primary btn-lg">Continuer</a>
                     </div>
