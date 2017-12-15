@@ -38,7 +38,7 @@
                 <img class="card-img-top card" src="images/air_con.png" />
                 <div class="text_sur_img_air2"><h1>T'as cru quoi?! Que t'allais rester invincible? <br /><br /> Et non..."</h1></div>
                 <div class="img_caption">
-                    <a href="conclusion.html" class="btn btn-primary btn-lg bout-lg">Continuer</a>
+                    <a href="conclusion.html" class="btn btn-primary btn-lg bout-lg">Par ici!</a>
                 </div>
 
             </div>

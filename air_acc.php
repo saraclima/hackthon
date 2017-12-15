@@ -38,7 +38,7 @@
                 <img class="card-img-top card" src="images/superdead.png" />
                 <div class="text_sur_img_air2"><h1>Téléphoner en volant, t'es sérieux?! <br /><br /> Tu t'es fait cramer!"</h1></div>
                 <div class="img_caption">
-                    <a href="conclusion.html" class="btn btn-primary btn-lg bout-lg">Continuer</a>
+                    <a href="conclusion.html" class="btn btn-primary btn-lg bout-lg">Viens par là!</a>
                 </div>
 
             </div>
