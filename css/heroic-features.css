@@ -1,0 +1,70 @@
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.card {
+  height: 100%;
+
+}
+
+.img_container{
+  position: relative;
+  text-align: center;
+  height: 70vw;
+}
+
+.img_caption {
+  position: absolute;
+  bottom: 20%;
+  right: 45%;
+}
+
+h1 {
+  font-family: 'Permanent Marker', cursive;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+
+}
+
+.text_sur_img_air {
+  position: absolute;
+  top: 12%;
+  left: 12%;
+  font-size: 140%;
+  font-family: 'Permanent Marker', cursive;
+
+
+
+}
+
+.text_sur_img_air2 {
+  position: absolute;
+  top: 12%;
+  left: 12%;
+  font-size: 140%;
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+
+
+
+}
+
+@media (max-width: 768px) {
+  body {
+    padding-top: 56px;
+  }
+  h1 {
+    font-size: 95%;
+  }
+  .display-3 {
+    font-size: 220%;
+  }
+}
