@@ -38,7 +38,7 @@
                 <img class="card-img-top card" src="images/voler.png" />
                <div class="text_sur_img_air"><h1>"Wooww! 367 messages!"</h1></div>
                 <div class="img_caption">
-                    <a href="air_acc.php" class="btn btn-primary btn-lg bout-lg">Continuer</a>
+                    <a href="air_acc.php" class="btn btn-primary btn-lg bout-lg">Qu'est-ce que va lui arriver?</a>
                 </div>
 
             </div>
@@ -52,7 +52,7 @@
                 <img class="card-img-top card" src="images/Scene2.png" />
                 <div class="text_sur_img_air"><h1>"Cap ou pas cap"</h1></div>
                     <div class="img_caption">
-                        <a href="air_con.php" class="btn btn-primary btn-lg">Continuer</a>
+                        <a href="air_con.php" class="btn btn-primary btn-lg">On verra bien!</a>
                     </div>
 
             </div>
