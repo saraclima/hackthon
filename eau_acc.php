@@ -11,7 +11,7 @@
     <title>Choisis ton Heros - O-Man </title>
 
     <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="css/heroic-features.css" rel="stylesheet">
@@ -57,8 +57,8 @@
 
 
 <!-- Bootstrap core JavaScript -->
-<script src="vendor/jquery/jquery.min.js"></script>
-<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="css/jquery.min.js"></script>
+<script src="css/bootstrap.bundle.min.js"></script>
 
 </body>
 
